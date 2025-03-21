@@ -42,14 +42,14 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Aishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username==aishnapathak&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Aishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username==aishnapathak&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Aishna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aishnapathak&show_icons=true&count_private=true&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Aishna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username===aishnapathak&langs_count=8&count_private=true&layout=compact&theme=blueberry&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Aishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username==aishnapathak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Aishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aishnapathak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
